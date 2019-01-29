@@ -1,5 +1,3 @@
-![ngx-youtube-player-logo]
-# ngx-YouTube-Player
 [![build-url][build-url-svg]][build-url]
 [![Dependencies][dependencies]][dependencies-url]
 [![Dev Dependencies][dev-dependencies]][dev-dependencies-url]
@@ -49,11 +47,3 @@ Visit http://localhost:4200 and enjoy!
 - Different type for video displaying
 - Create local playlist without authorization
 - Simple Import/Export playlists as JSON
-
-## TODO
-- ~~'Now playing' when video is minimized~~
-- ~~Update UI to be fully responsive for mobile/tablet~~
-- ~~Browser notification interface when new song is going to start~~
-- Save multiple playlists and switch between them
-- Write tests
-- ...
